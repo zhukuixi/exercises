@@ -1,4 +1,4 @@
-""" Features
+""" Groups and Topics
 
 The objective of this task is to explore the structure of the deals.txt file. 
 
