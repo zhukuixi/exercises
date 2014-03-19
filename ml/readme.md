@@ -9,7 +9,7 @@ This exercise requires the engineer to perform a range of tasks using the deals.
 Each task has an individual python file in the mywork package directory, please confine your solution for each task within those files. In addition, there is a test directory in the project root, with an associated test_* python file, where your unit tests will go. 
 
 Requirements
------------
+------------
 
 Your code should meet the following requirements:
 
