@@ -19,5 +19,5 @@ Domains
 * [Machine Learning (Python)]
 * [Full Stack Web]
 
-[Machine Learning (Python)]:/ml/readme.md
-[Full Stack Web]:/fullstackweb/readme.md
+[Machine Learning (Python)]:/ml
+[Full Stack Web]:/fullstackweb
