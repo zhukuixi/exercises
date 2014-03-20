@@ -12,3 +12,12 @@ General Instructions
 - When you are happy with your solutions, submit a pull request to the parent project
 - Make sure you regularly check-in your code. We look at your solutions, and your stream of consciousness. Just like on the line, we don't want to simply see a big giant hairball check-in
 - If you have any problems or questions, check the parent project's issues space. If you don't find the answer there, create a new issue, and we'll respond asap
+
+Domains
+-------
+
+* [Machine Learning (Python)]
+* [Full Stack Web]
+
+[Machine Learning (Python)]:/ml/readme.md
+[Full Stack Web]:/fullstackweb/readme.md
