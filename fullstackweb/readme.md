@@ -48,6 +48,10 @@ Submission Process
 
 To avoid dependencies on services like AWS, we suggest you complete your work inside a [Docker] container, using Ubuntu 13.04 (64 bit) or 13.10 (64 bit) as the base OS, and simply check-in your application's docker file as part of your overall Github fork.
 
+Disclaimer
+---------
+
+Merchant product listings in data/products.json are the property of the respective merchant.
 
 [PEP8]:http://legacy.python.org/dev/peps/pep-0008/
 [pytest]:http://pytest.org/latest/
